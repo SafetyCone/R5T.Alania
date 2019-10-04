@@ -1,0 +1,2 @@
+# R5T.Alania
+A codenamed experiment in creating a strongly-typed paths library.
